@@ -1,2 +1,11 @@
-# spa
-sitio web tematica spa desarrollado con html5 sass 
+# Nombre del sitio 
+- spa
+
+## Tecnologias usadas
+- html5
+- scss
+- gulp
+- BEM
+
+## Ver sitio en vivo
+https://juambeltz.github.io/spa/
