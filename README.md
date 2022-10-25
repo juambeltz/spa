@@ -6,6 +6,7 @@
 ## 🧠 Tecnologias usadas
 - html5
 - scss
+- javascript
 - gulp
 - BEM
 
