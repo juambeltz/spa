@@ -1,5 +1,7 @@
-## 📛 Nombre del sitio 
-- Spa
+# 📛 Sitio : Spa 
+
+## 📰 Desctipción
+- En construcción
 
 ## 🧠 Tecnologias usadas
 - html5
